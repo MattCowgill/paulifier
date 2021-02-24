@@ -20,3 +20,5 @@ Suggests:
 Config/testthat/edition: 3
 Depends: 
     R (>= 2.10)
+URL: https://github.com/MattCowgill/paulifier
+BugReports: https://github.com/MattCowgill/paulifier/issues
