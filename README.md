@@ -7,3 +7,5 @@
 <!-- badges: end -->
 
 The goal of paulifier is to Paulify words.
+
+Toy R package created to demonstrate the process of package development.
